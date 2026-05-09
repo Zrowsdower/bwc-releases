@@ -4,6 +4,8 @@ All notable changes to BWC are recorded here. Each entry corresponds to a tagged
 
 ## [Unreleased]
 
+## [0.3.10] - 2026-05-09
+
 ## [0.3.9] - 2026-05-09
 
 ## [0.3.8] - 2026-05-09
@@ -54,3 +56,5 @@ Initial private release (assets in source repo Zrowsdower/BWC v0.1.0). Public as
 [0.3.8]: https://github.com/Zrowsdower/bwc-releases/releases/tag/v0.3.8
 
 [0.3.9]: https://github.com/Zrowsdower/bwc-releases/releases/tag/v0.3.9
+
+[0.3.10]: https://github.com/Zrowsdower/bwc-releases/releases/tag/v0.3.10
